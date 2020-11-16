@@ -32,11 +32,7 @@
 
 ​			(성공하면 문자열 "true"를 반환 ).
 
-​        	=> if (socket.isConnected()) {
-
-​               	res ="true"
-
-​       		 }
+​        	=> if (socket.isConnected()) {res ="true"}
 
 ​    (7). 나머지는 "false" 를 예외처리에는 false 를 반환한다.
 
