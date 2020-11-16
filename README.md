@@ -9,3 +9,4 @@
 
 ### 2020.11.16 / Java & Java Scrpit
 *** 
+ 1. [20201116_간단하게 PingTest 구현해보기 ](https://github.com/maria5845/Daily_TIL/blob/master/%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%20%EA%B0%92%20%EC%A3%BC%EA%B3%A0%EB%B0%9B%EA%B8%B0/%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%20%EA%B0%92%20%EC%A3%BC%EA%B3%A0%20%EB%B0%9B%EA%B8%B0.md)<br>
