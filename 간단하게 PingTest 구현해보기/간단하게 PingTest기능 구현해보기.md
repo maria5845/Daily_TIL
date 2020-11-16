@@ -4,7 +4,7 @@
 
 1. **Java PingTest Class**
 
-   ![p6](.\img\p6.JPG)
+![Alert text](./img/p6.png)
 
 
 
@@ -20,7 +20,7 @@
 
 2. **InetAddress**
 
-![p7](.\img\p7.JPG)
+![Alert text](./img/p7.png)
 
 ​     (4). InetAddress 클래스를IP주소를 적용하기 위해 사용하였고 address라는 변수에 할당하였다. => 			InetAddress address = InetAddress.getByName(ip);  
 
@@ -44,7 +44,7 @@
 
  **StatusCont.java (Controller 단 처리)**
 
-![p9](.\img\p9.JPG)
+![Alert text](./img/p9.png)
 
  
 
@@ -66,7 +66,7 @@
 
    <수정된 코드> 
 
-![p11](.\img\p11.JPG)
+![Alert text](./img/p11.png)
 
 ​       (11).  리스트로 담긴 값을 statusList 변수에 할당한다.
 
