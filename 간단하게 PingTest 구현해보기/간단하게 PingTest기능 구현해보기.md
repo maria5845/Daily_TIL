@@ -4,7 +4,7 @@
 
 1. **Java PingTest Class**
 
-![p6](C:\Users\young\OneDrive\바탕 화면\간단하게 PingTest 구현해보기\img\p6.JPG)
+   ![p6](C:\Users\young\OneDrive\문서\Daily_TIL\간단하게 PingTest 구현해보기\img\p6.JPG)
 
 
 
@@ -20,7 +20,7 @@
 
 2. **InetAddress**
 
-![p7](C:\Users\young\OneDrive\바탕 화면\간단하게 PingTest 구현해보기\img\p7.JPG)
+![p7](C:\Users\young\OneDrive\문서\Daily_TIL\간단하게 PingTest 구현해보기\img\p7.JPG)
 
 ​     (4). InetAddress 클래스를IP주소를 적용하기 위해 사용하였고 address라는 변수에 할당하였다. => 			InetAddress address = InetAddress.getByName(ip);  
 
@@ -44,11 +44,11 @@
 
  **StatusCont.java (Controller 단 처리)**
 
-![p9](C:\Users\young\OneDrive\바탕 화면\간단하게 PingTest 구현해보기\img\p9.JPG)
+![p9](C:\Users\young\OneDrive\문서\Daily_TIL\간단하게 PingTest 구현해보기\img\p9.JPG)
 
  
 
-  ### JSON 데이터를 넘겨서 그리드를 그리는 컨트롤러   => 기존에서 수정되야 하는 사항
+#### JSON 데이터를 넘겨서 그리드를 그리는 컨트롤러   => 기존에서 수정되야 하는 사항
 
 ​    (8). ajaxBean.setData("list",service.selectList("statusSqlMap.getStatusList",pieInfoBean));
 
@@ -66,7 +66,7 @@
 
    <수정된 코드> 
 
-![p11](C:\Users\young\OneDrive\바탕 화면\간단하게 PingTest 구현해보기\img\p11.JPG)
+![p11](C:\Users\young\OneDrive\문서\Daily_TIL\간단하게 PingTest 구현해보기\img\p11.JPG)
 
 ​       (11).  리스트로 담긴 값을 statusList 변수에 할당한다.
 
