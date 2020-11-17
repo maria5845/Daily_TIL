@@ -10,3 +10,4 @@
 
 ### :sunglasses: Python Algorithms
 *** 
+ 1. [20201116_간단하게 PingTest 구현해보기 ](https://github.com/maria5845/Daily_TIL/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4%20with%20%ED%8C%8C%EC%9D%B4%EC%8D%AC/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4%20with%20%ED%8C%8C%EC%9D%B4%EC%8D%AC(1)_%ED%81%B0%EC%88%98%EB%B2%95%EC%B9%99_20201117.md)
