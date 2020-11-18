@@ -42,8 +42,6 @@ FOG에서 ssouser를 넣을 때 ssouser를 PIE에서 2종류로 변경 ssouser /
 
 **'ssoLogin.do?idStr = '+ $("#idStr").val() + '&encrypt=' + $("#encrypt").val();** ==>요렇게 파라미터 값을 넘겨준다
 
-# LG_TP_PIE_V1 프로젝트
-
 ### 라. PIE 로그인 로직 처리하기
 
 ![Alert text](./img/cap4.png)
