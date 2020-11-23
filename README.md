@@ -13,6 +13,6 @@
  1. [20201117 이것이 코딩 테스트다 with 파이썬(1)_큰수법칙_ ](https://github.com/maria5845/Daily_TIL/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4%20with%20%ED%8C%8C%EC%9D%B4%EC%8D%AC/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4%20with%20%ED%8C%8C%EC%9D%B4%EC%8D%AC(1)_%ED%81%B0%EC%88%98%EB%B2%95%EC%B9%99_20201117.md)
 
 
-### :sunglasses: Fast Java Scrpit
+### :four_leaf_clover: Fast Java Scrpit
 *** 
  1. [20201123 빠르게 JS 처음부터 정리해보기]( https://github.com/maria5845/Daily_TIL/blob/master/%EB%B9%A0%EB%A5%B4%EA%B2%8C%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/fastjs.js)
