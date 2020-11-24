@@ -15,4 +15,5 @@
 
 ### :four_leaf_clover: Fast Java Scrpit
 *** 
- 1. [20201123 빠르게 JS 처음부터 정리해보기]( https://github.com/maria5845/Daily_TIL/blob/master/%EB%B9%A0%EB%A5%B4%EA%B2%8C%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/fastjs.js)
+ 1. [20201123 빠르게 JS 처음부터 정리해보기 01]( https://github.com/maria5845/Daily_TIL/blob/master/%EB%B9%A0%EB%A5%B4%EA%B2%8C%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/fastjs.js)
+ 2. [20201124 빠르게 JS 처음부터 정리해보기 02](https://github.com/maria5845/Daily_TIL/blob/master/%EB%B9%A0%EB%A5%B4%EA%B2%8C%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/fastJs02.js)
