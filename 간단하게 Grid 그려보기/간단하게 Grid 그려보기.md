@@ -4,7 +4,7 @@
 
 개요 :  Kendo UI를 사용하여 그리드를 그려보자 
 
-![data](/img/p1.jpg)
+![data](./img/p1.jpg)
 
 ### 가. SQL 작성
 
@@ -20,7 +20,7 @@
 
 ```sql
 SELECT to_char(a1.log_dt,'YYYY/MM/DD HH24:MI:SS') as log_dt
-				  ,a1.user_id as user_id
+			  ,a1.user_id as user_id
 	  		  ,a1.pm_code as pm_code 
 	  		  ,a3.maintenance_name_en 
 	  		  ,replace(access_type,'Search','View') as access_type
@@ -37,9 +37,7 @@ SELECT to_char(a1.log_dt,'YYYY/MM/DD HH24:MI:SS') as log_dt
 
 1. 처음에 작성한  SQL문의 경우  LEFT OUTER JOIN 과 INNER JOIN을 활용한 SQL 코드 작성이었다.
 
-       그러나 외부조인과 내부조인으로 중복된 데이터들이 생성되 데이터 정확성이 떨어져
-
-        SQL 문을 변경해야 했다. 
+    그러나 외부조인과 내부조인으로 중복된 데이터들이 생성되 데이터 정확성이 떨어져 SQL 문을 변경해야 했다. 
 
 ### 수정한 SQL
 
