@@ -4,8 +4,6 @@ FOG에서 ssouser를 넣을 때 ssouser를 PIE에서 2종류로 변경 ssouser /
 
 개요 : FOG에 접속한 세션에서 사용자 권한을 분기하여 해당 권한에 따라 같은 권한으로 로그인 하도록 해야했다
 
-# LG_FOG_V1 프로젝트
-
 ### 가. pieConnect.do
 
 ![Alert text](./img/cap2.png)
@@ -43,8 +41,6 @@ FOG에서 ssouser를 넣을 때 ssouser를 PIE에서 2종류로 변경 ssouser /
    작성한다.
 
 **'ssoLogin.do?idStr = '+ $("#idStr").val() + '&encrypt=' + $("#encrypt").val();** ==>요렇게 파라미터 값을 넘겨준다
-
-# LG_TP_PIE_V1 프로젝트
 
 ### 라. PIE 로그인 로직 처리하기
 
