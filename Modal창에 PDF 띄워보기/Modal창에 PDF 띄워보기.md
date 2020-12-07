@@ -1,7 +1,7 @@
 Modal창에 PDF파일 띄워보기 
 =============
 
-![p1](./img/p1.jpg)
+![p1](./img/p1.JPG)
 
 
 
@@ -62,7 +62,7 @@ function onPdfPop(){
 
 ## JSP(2)
 
-![p1](./img/p2.jpg)
+![p1](./img/p2.JPG)
 
 1. Controller에서 작성한 경로로 .jsp / Js.jsp 파일 2개를 만들어 준다. 
 
@@ -70,14 +70,14 @@ function onPdfPop(){
 
 ### 1. temsPmPdfPop.jsp
 
-![p1](./img/p3.jpg)
+![p1](./img/p3.JPG)
 
 1. Modal 을 작성한다. 
 2. id = "PDF"  태그에 PDF 파일이 보여질 예정이다. 
 
 ### 2. PDF JS & PDF Object JS 경로 
 
-![p4](C:\Daily_TIL\Modal창에 PDF 띄워보기\img\p4.JPG)
+![p1](./img/p4.JPG)
 
 
 
