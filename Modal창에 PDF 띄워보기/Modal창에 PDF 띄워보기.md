@@ -83,7 +83,7 @@ function onPdfPop(){
 
 1.  PDF JS 다운받는다. 경로(https://mozilla.github.io/pdf.js/getting_started/)
 
-   (Example에 사용법까지 친절하게 나와있다. ) 
+     (Example에 사용법까지 친절하게 나와있다. ) 
 
 2. PDF Object.Js와 PDF Object.min.js 두개를 다운받는다 ( https://pdfobject.com/)
 
