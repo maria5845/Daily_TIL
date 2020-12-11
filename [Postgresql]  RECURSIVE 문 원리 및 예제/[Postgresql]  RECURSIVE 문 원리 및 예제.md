@@ -70,7 +70,7 @@ WITH RECURSIVE VIEWNAME AS(
 
    **결과셋**
 
-![p1](./img/p1.jpg)
+![p1](./img/p1.png)
 
  (자바의 반복문과 비슷하게 출력되는 것을 확인 할 수 있다)
 
