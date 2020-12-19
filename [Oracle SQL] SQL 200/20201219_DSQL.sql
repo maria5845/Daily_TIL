@@ -53,4 +53,19 @@ SELECT RTRIM(SUBSTR('yaska159@naver.com',INSTR('yaska159@naver.com','@')+1),'.co
     SELECT 'smith', LTRIM('smith','s'), RTRIM('smith','h'), TRIM('s' from 'smith')
     FROM DUAL;
     
+ --insert into emp(empno,ename,sal,job,deptno) values(8921,'JACK ',3000,'SALESMAN',30);
+ --COMMIT;
+
+SELECT ename, sal
+    FROM emp
+    where 1=1   
+    AND RTRIM(ename)='JACK';
+
+--DELETE FROM emp where TRIM(ename)='JACK';
+--commit;
+
+
+
+    
+    
     
