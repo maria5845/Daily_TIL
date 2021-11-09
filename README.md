@@ -11,7 +11,6 @@
 https://github.com/maria5845/Daily_TIL/blob/master/%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C%20Grid%20%EA%B7%B8%EB%A0%A4%EB%B3%B4%EA%B8%B0/%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C%20Grid%20%EA%B7%B8%EB%A0%A4%EB%B3%B4%EA%B8%B0.md)<br>
 5. [20201207_Modal창에 PDF 띄워보기 (갱신필요)](
 https://github.com/maria5845/Daily_TIL/blob/master/Modal%EC%B0%BD%EC%97%90%20PDF%20%EB%9D%84%EC%9B%8C%EB%B3%B4%EA%B8%B0/Modal%EC%B0%BD%EC%97%90%20PDF%20%EB%9D%84%EC%9B%8C%EB%B3%B4%EA%B8%B0.md)<br>
-6. [20211109_자바 메모리에 관하여)]https://github.com/maria5845/Daily_TIL/blob/master/Modal%EC%B0%BD%EC%97%90%20PDF%20%EB%9D%84%EC%9B%8C%EB%B3%B4%EA%B8%B0/Modal%EC%B0%BD%EC%97%90%20PDF%20%EB%9D%84%EC%9B%8C%EB%B3%B4%EA%B8%B0.md) <br>
 
 ### :whale2: Python Algorithms
 *** 
