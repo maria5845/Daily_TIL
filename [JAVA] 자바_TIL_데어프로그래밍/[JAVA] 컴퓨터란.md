@@ -52,6 +52,7 @@
 1. 자바언어를 통해 OS에 명령하고 하드웨어를 직접 제아하는 것 
 2. JDK 란 Java Development Kit로 자바언어를 OS에 통역해주는 역할이다.   
 3. MAC, Linux, Windows에 맞게 JDK를 설치 해야한다. 
+4. JDK 설치는 https://jdk.java.net/ 링크로 들어가서 다운받자! 
 
 <img src="./img/p1113_3.png" width="650" height="400">
 <br>
