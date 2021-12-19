@@ -18,7 +18,7 @@
 
   
 
-  설명 :  XML 형식 데이터 <-> Java 오브젝트 로 상호 변환하게 해주는 라이브럴 ㅣ
+  설명 :  XML 형식 데이터 <-> Java 오브젝트 로 상호 변환하게 해주는 라이브러리
 
 ​			  Jackson Dataformat XML을 pom.xml에  그림과 같이 추가해준다. 
 
