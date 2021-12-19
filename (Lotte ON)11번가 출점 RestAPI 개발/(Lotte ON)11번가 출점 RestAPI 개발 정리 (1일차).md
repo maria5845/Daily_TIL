@@ -94,12 +94,10 @@
 ​		이런 형태로 지정된 값을 요소로 묶여  XML이 출력된다  그러나 위의 형태는 틀린 형태이기에
 
 ~~~xml
-```
 <martPrmtList>
     	<martPrmtNm>블라블라1/martPrmtNm>
     	<martPrmtNm>블라블라2/martPrmtNm>
 </martPrmtList>
-```
 ~~~
 
  	지정된 값을 요소로 묶지 않은 형태로 출력하기 위해 false로 작성해 준다. 
