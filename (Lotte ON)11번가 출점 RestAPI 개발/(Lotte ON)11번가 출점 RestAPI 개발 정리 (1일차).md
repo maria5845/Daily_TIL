@@ -87,7 +87,7 @@
   	<martPrmtNm>
       	<martPrmtNm>블라블라1/martPrmtNm>
       	<martPrmtNm>블라블라2/martPrmtNm>
-      </martPrmtNm>
+    </martPrmtNm>
   </martPrmtList>
   ~~~
 
