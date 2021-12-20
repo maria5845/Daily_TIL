@@ -33,6 +33,6 @@ https://github.com/maria5845/Daily_TIL/blob/master/%5BJAVA%5D%20%EC%9E%90%EB%B0%
  1. [20201211 Postgersql RECURSIVE문 원리 및 예제 ]( https://github.com/maria5845/Daily_TIL/blob/master/%5BPostgresql%5D%20%20RECURSIVE%20%EB%AC%B8%20%EC%9B%90%EB%A6%AC%20%EB%B0%8F%20%EC%98%88%EC%A0%9C/%5BPostgresql%5D%20%20RECURSIVE%20%EB%AC%B8%20%EC%9B%90%EB%A6%AC%20%EB%B0%8F%20%EC%98%88%EC%A0%9C.md)
  2. [20201219 Oracle SQL 200(1)](https://github.com/maria5845/Daily_TIL/blob/master/%5BOracle%20SQL%5D%20SQL%20200/20201219_DSQL.sql)
 
-### :card_file_box: 프로젝트 회고 및 기술정리 
+### :card_file_box: 프로젝트 회고 및 기술정리1 (LOTTE ON 11번가 출점 프로젝트 2021.11.15 ~) 
 *** 
 1. [Lotte ON 11번가 출점 RestAPI 개발 정리 1](https://github.com/maria5845/Daily_TIL/blob/master/(Lotte%20ON)11%EB%B2%88%EA%B0%80%20%EC%B6%9C%EC%A0%90%20RestAPI%20%EA%B0%9C%EB%B0%9C/(Lotte%20ON)11%EB%B2%88%EA%B0%80%20%EC%B6%9C%EC%A0%90%20RestAPI%20%EA%B0%9C%EB%B0%9C%20%EC%A0%95%EB%A6%AC%20(1%EC%9D%BC%EC%B0%A8).md)<br>
