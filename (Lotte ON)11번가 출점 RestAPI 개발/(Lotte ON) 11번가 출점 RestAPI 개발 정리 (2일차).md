@@ -15,7 +15,7 @@
 
 3.  출력 결과 예제(Example Response Data)
 
-​		![p1](./이미지/2일차/p1.PNG)11번가 출점 RestAPI 개발\이미지\2일차\p1.PNG)     
+​		![p1](./이미지/2일차/p1.PNG)
 
  위에 URL을 호출하면 해당 XML 형태로 Response 값이 돌아온다. 
 
