@@ -16,7 +16,7 @@ https://github.com/maria5845/Daily_TIL/blob/master/%5BJAVA%5D%20%EC%9E%90%EB%B0%
 7. [20211219_HTTPServletRequest-개요 ](https://github.com/maria5845/Daily_TIL/blob/master/%5BJAVA%5D%20%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%201%ED%8E%B8%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%EA%B0%9C%EB%B0%9C%20%ED%95%B5%EC%8B%AC%EA%B8%B0%EC%88%A0/%5BJAVA%7D%20HttpServletRequest%20%5B%EA%B0%9C%EC%9A%94%5D.md)<br>
 8. [20211219_HTTPServletRequest-사용법 ](https://github.com/maria5845/Daily_TIL/blob/master/%5BJAVA%5D%20%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%201%ED%8E%B8%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%EA%B0%9C%EB%B0%9C%20%ED%95%B5%EC%8B%AC%EA%B8%B0%EC%88%A0/%5BJAVA%7D%20HttpServletRequest%20%5B%EC%82%AC%EC%9A%A9%EB%B2%95%5D.md)<br>
 9. [20211219_HTTPServletRequest-GET 쿼리 파라미터](https://github.com/maria5845/Daily_TIL/blob/master/%5BJAVA%5D%20%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%201%ED%8E%B8%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%EA%B0%9C%EB%B0%9C%20%ED%95%B5%EC%8B%AC%EA%B8%B0%EC%88%A0/%5BJAVA%5D%20HttpServletRequest-GET%EB%B0%A9%EC%8B%9D.md)<br>
-
+10.[20211219_HTTPServletRequest-POST 쿼리 파라미터](https://github.com/maria5845/Daily_TIL/blob/master/%5BJAVA%5D%20%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%201%ED%8E%B8%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%EA%B0%9C%EB%B0%9C%20%ED%95%B5%EC%8B%AC%EA%B8%B0%EC%88%A0/%5BJAVA%5D%20HttpServletRequest-POST%EB%B0%A9%EC%8B%9D.md)<br>
 
 ### :zap: Python Algorithms
 *** 
