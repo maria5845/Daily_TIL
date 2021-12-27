@@ -52,5 +52,4 @@
 
 
 
-##### - 개발정리 4일차에 XiSampleCategoryVOS, sendRestCall 이어서 작성 합니다. - 
 
