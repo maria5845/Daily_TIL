@@ -35,6 +35,14 @@
 ``` java
     URLConnection urlCon = url.openConnection();
 ```
+프로토콜 http:// 인 경우 반환된 객체를 HttpURLConnection 객체로 캐스팅할 수 있다.
+``` java
+    
+```
+
+openConnection() 메서드는 실제 네트워크 연결을 설정하지 않고, 단지 URLConnection 클래스의 인스턴스를 반환한다.
+네트워크 연결은 connect() 메서드가 호출될 때 명시적으로 이루어지거나, 헤더 필드를 일거나 입력스트림/ 출력스트림을
+가져올 때 암시적으로 이루어진다. URL의 openConnection() 메서드는 I/O 오류가 발생하면 IOException을 발생시킨다. 
 
 
 
